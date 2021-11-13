@@ -29,10 +29,10 @@
 		</tr>
 		<tr>
 			<td>
-				<input type="radio" id="pilih" name="warna" value="hijau">Hijau
-				<input type="radio" id="pilih" name="warna" value="merah">Merah
-				<input type="radio" id="pilih" name="warna" value="biru">Biru
-				<input type="radio" id="pilih" name="warna" value="kuning">Kuning
+				<input type="radio" id="pilih" name="warna" value="green">Hijau
+				<input type="radio" id="pilih" name="warna" value="red">Merah
+				<input type="radio" id="pilih" name="warna" value="blue">Biru
+				<input type="radio" id="pilih" name="warna" value="yellow">Kuning
 			</td>
 		</tr>
 	</table>
@@ -44,21 +44,11 @@
 <?php 
 if(isset($_POST['sub'])){
 	$warna = $_POST['warna'];
-	if ($warna == "hijau") {
-		$index = "GREEN";
-	}else if ($warna == "merah") {
-		$index = "RED";
-	}else if ($warna == "biru") {
-		$index = "BLUE";
-	}else if ($warna == "kuning") {
-		$index = "YELLOW";
-	}
-
 	$Jumlah = $_POST['n'];
 	if($Jumlah >= 1 ){
 	for ($i=1; $i <= $Jumlah; $i++) {
         for ($j=1; $j <= $i; $j++) {
-            echo '<p class="kotak" style="background-color:'. $index .';"></p>';
+            echo '<p class="kotak" style="background-color:'. $warna .';"></p>';
 
         }
         echo '<br>';
