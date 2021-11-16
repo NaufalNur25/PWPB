@@ -94,10 +94,10 @@
         navigation: false
     });
     $("#quote-slider").owlCarousel({
-        autoPlay : false,
+        autoPlay : true,
         singleItem : true,
-        pagination: false,
-        navigation: false
+        pagination: true,
+        navigation: true
     });
     $("#owl-testimonials").owlCarousel({
         autoPlay : true,

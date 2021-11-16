@@ -110,7 +110,7 @@
          <div class="tp-banner">
             <ul>
                <!-- SLIDE 1 -->
-               <li data-transition="fade" data-slotamount="7" data-masterspeed="2000" data-thumb="img/backgrounds/bg.jpg" data-delay="10000" data-saveperformance="on" data-title="We Are Visual">
+               <li data-transition="fade" data-slotamount="7" data-masterspeed="2000" data-thumb="img/backgrounds/bg.jpg" data-delay="10000" data-saveperformance="on" data-title="We Are FourGalery">
                   <img src="img/backgrounds/bg.jpg" alt="slidebg1" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
                   
                   <!-- Home Heading -->
@@ -164,7 +164,7 @@
                </li>
                
                <!-- SLIDE 2 -->
-               <li data-transition="fade" data-slotamount="7" data-masterspeed="2000" data-thumb="img/backgrounds/bg-1.jpg" data-delay="10000"  data-saveperformance="on" data-title="Digital Agency">
+               <li data-transition="fade" data-slotamount="7" data-masterspeed="2000" data-thumb="img/backgrounds/bg-1.jpg" data-delay="10000"  data-saveperformance="on" data-title="SMKN 4 Bandung">
                   <img src="img/backgrounds/bg-1.jpg" alt="slidebg1" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
                   
                   <!-- Home Heading -->
@@ -218,7 +218,7 @@
                </li>
                
                <!-- SLIDE 3 -->
-               <li data-transition="fade" data-slotamount="7" data-masterspeed="2000" data-thumb="img/backgrounds/bg-2.jpg" data-delay="10000"  data-saveperformance="on" data-title="Creative Coders">
+               <li data-transition="fade" data-slotamount="7" data-masterspeed="2000" data-thumb="img/backgrounds/bg-2.jpg" data-delay="10000"  data-saveperformance="on" data-title="FourGalery">
                   <img src="img/backgrounds/bg-2.jpg" alt="slidebg1" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
                   
                   <!-- Home Heading -->
@@ -532,9 +532,9 @@
                   <div>
                      <blockquote>
                         <i class="icon-left ion-quote ion-2x highlight"></i>
-                        <span> coming together is a beginning.<br> 
-                              staying together is a progress.<br>
-                              and working together is a succes. </span>
+                        <span> coming together is a <b>beginning.</b><br> 
+                              staying together is a <b>progress.</b><br>
+                              and working together is a <b>succes.</b> </span>
                         <i class="icon-right ion-quote ion-2x highlight"></i>
                      </blockquote>
                      <h4 class="quote-author highlight">Kelompok FOURGALLERY</h4>
@@ -859,240 +859,15 @@
    <!-- End Portfolio Section -->
    
    <!-- Start Get Connected -->
-   <section id="services" class="parallax-section-9">
-      <div class="container">
-         <div class="col-md-12 text-center">
-            <h3 class="section-title wow fadeInUp">What we do.</h3>
-            <p class="subheading wow fadeInUp">We use <span class="highlight">our expertise</span> to extend your brand.</p>
-         </div>
-         <div class="row features-row wow fadeInUp">
-            <div class="col-md-4 col-sm-12 feature-column">
-               <div class="feature-icon">
-                  <i class="icon-eyeglasses size-2x highlight"></i>
-               </div>
-               <div class="feature-info">
-                  <h4>Parallax Design</h4>
-                  <p class="feature-description">Vivamus molestie phasellus enim sed orci eu pharetra. Donec posuere nunc vitae tortor sagittis feugiat in non massa.</p>
-               </div>
-            </div>
-            <div class="col-md-4 col-sm-12 white feature-column">
-               <div class="feature-icon">
-                  <i class="icon-lock-open size-2x highlight"></i>
-               </div>
-               <div class="feature-info">
-                  <h4>Fully Responsive</h4>
-                  <p class="feature-description">Vivamus molestie phasellus enim sed orci eu pharetra. Donec posuere nunc vitae tortor sagittis feugiat in non massa.</p>
-               </div>
-            </div>
-            <div class="col-md-4 col-sm-12 white feature-column">
-               <div class="feature-icon">
-                  <i class="icon-energy size-2x highlight"></i>
-               </div>
-               <div class="feature-info">
-                  <h4>Fast & Smooth</h4>
-                  <p class="feature-description">Vivamus molestie phasellus enim sed orci eu pharetra. Donec posuere nunc vitae tortor sagittis feugiat in non massa.</p>
-               </div>
-            </div>
-         </div>
-         <div class="row features-row wow fadeInUp">
-            <div class="col-md-4 col-sm-12 feature-column">
-               <div class="feature-icon">
-                  <i class="icon-eyeglasses size-2x highlight"></i>
-               </div>
-               <div class="feature-info">
-                  <h4>Parallax Design</h4>
-                  <p class="feature-description">Vivamus molestie phasellus enim sed orci eu pharetra. Donec posuere nunc vitae tortor sagittis feugiat in non massa.</p>
-               </div>
-            </div>
-            <div class="col-md-4 col-sm-12 white feature-column">
-               <div class="feature-icon">
-                  <i class="icon-lock-open size-2x highlight"></i>
-               </div>
-               <div class="feature-info">
-                  <h4>Fully Responsive</h4>
-                  <p class="feature-description">Vivamus molestie phasellus enim sed orci eu pharetra. Donec posuere nunc vitae tortor sagittis feugiat in non massa.</p>
-               </div>
-            </div>
-            <div class="col-md-4 col-sm-12 white feature-column">
-               <div class="feature-icon">
-                  <i class="icon-energy size-2x highlight"></i>
-               </div>
-               <div class="feature-info">
-                  <h4>Fast & Smooth</h4>
-                  <p class="feature-description">Vivamus molestie phasellus enim sed orci eu pharetra. Donec posuere nunc vitae tortor sagittis feugiat in non massa.</p>
-               </div>
-            </div>
-         </div>
-      </div>
-   </section>
+   
    <!-- End Services Section -->
    
    <!-- Start Clients Section -->
-   <section id="clients">
-      <div class="container">
-         <div class="row">
-            <div class="col-md-12 text-center">
-               <h3 class="section-title wow fadeInUp">Recent Clients.</h3>
-               <p class="subheading wow fadeInUp">Meet our clients, some of the most well known companies.</p>
-            </div>
-            <div class="clients">
-               <div id="client-slider" class="owl-carousel">
-                  <div class="item">
-                     <img src="img/clients/logo-1-dark.png" alt="" />
-                  </div>
-                  <div class="item">
-                     <img src="img/clients/logo-2-dark.png" alt="" />
-                  </div>
-                  <div class="item">
-                     <img src="img/clients/logo-3-dark.png" alt="" />
-                  </div>
-                  <div class="item">
-                     <img src="img/clients/logo-4-dark.png" alt="" />
-                  </div>
-                  <div class="item">
-                     <img src="img/clients/logo-5-dark.png" alt="" />
-                  </div>
-                  <div class="item">
-                     <img src="img/clients/logo-6-dark.png" alt="" />
-                  </div>
-                  <div class="item">
-                     <img src="img/clients/logo-7-dark.png" alt="" />
-                  </div>
-                  <div class="item">
-                     <img src="img/clients/logo-8-dark.png" alt="" />
-                  </div>
-                  <div class="item">
-                     <img src="img/clients/logo-9-dark.png" alt="" />
-                  </div>
-                  <div class="item">
-                     <img src="img/clients/logo-10-dark.png" alt="" />
-                  </div>
-                  <div class="item">
-                     <img src="img/clients/logo-11-dark.png" alt="" />
-                  </div>
-               </div>
-            </div>
-         </div>
-      </div>
-   </section>
+   
    <!-- End Clients Section -->
    
    <!-- Start Price List -->
-   <section id="price-list">
-      <div class="container">
-         <div class="row">
-            <div class="col-md-12 text-center">
-               <h3 class="section-title wow fadeInUp"> Pricing Table </h3>
-               <p class="subheading wow fadeInUp">Meet our clients, some of the most well known companies.</p>
-            </div>
-            <div class="pricing_table">
-               <div class="container">
-                  <div class="col-md-3 col-sm-6">
-                     <div class="planbox">
-                        <div class="title">
-                           <h4><strong>Starter</strong></h4>
-                        </div>
-                        <div class="prices">
-                           <strong>$2.99<i>/M</i></strong>
-                           <b>Regularly <em>$4.99</em></b>
-                           <a href="#">
-                              Sign Up
-                           </a>
-                        </div>
-                        <ul>
-                           <li><strong>Unlimited</strong> Web Space</li>
-                           <li><strong>FREE</strong> Site Building Tools</li>
-                           <li><strong>FREE</strong> Domain Registar</li>
-                           <li><strong>24/7/365</strong> Support </li>
-                           <li><strong>FREE</strong> Marketing &amp; SEO Tools</li>
-                           <li><strong>99.9%</strong> Service Uptime</li>
-                           <li class="last"><strong>30 Day</strong> Money Back Guarantee</li>
-                        </ul>
-                     </div>
-                  </div>
-                  <!-- end plan -->
-                  
-                  <div class="col-md-3 col-sm-6">
-                     <div class="planbox highlight">
-                        <div class="title">
-                           <h4 class="caps"><strong>Business</strong></h4>
-                        </div>
-                        <div class="prices">
-                           <strong>$9.75<i>/M</i></strong>
-                           <b>Regularly <em>$16.99</em></b>
-                           <a href="#">
-                              Sign Up
-                           </a>
-                        </div>
-                        <ul>
-                           <li><strong>Unlimited</strong> Web Space</li>
-                           <li><strong>FREE</strong> Site Building Tools</li>
-                           <li><strong>FREE</strong> Domain Registar</li>
-                           <li><strong>24/7/365</strong> Support </li>
-                           <li><strong>FREE</strong> Marketing &amp; SEO Tools</li>
-                           <li><strong>99.9%</strong> Service Uptime</li>
-                           <li class="last"><strong>30 Day</strong> Money Back Guarantee</li>
-                        </ul>
-                     </div>
-                  </div>
-                  <!-- end plan -->
-                  
-                  <div class="col-md-3 col-sm-6">
-                     <div class="planbox">
-                        <div class="title">
-                           <h4 class="caps"><strong>Premium</strong></h4>
-                        </div>
-                        <div class="prices">
-                           <strong>$45.50<i>/M</i></strong>
-                           <b>Regularly <em>$90.50</em></b>
-                           <a href="#">
-                              Sign Up
-                           </a>
-                        </div>
-                        <ul>
-                           <li><strong>Unlimited</strong> Web Space</li>
-                           <li><strong>FREE</strong> Site Building Tools</li>
-                           <li><strong>FREE</strong> Domain Registar</li>
-                           <li><strong>24/7/365</strong> Support </li>
-                           <li><strong>FREE</strong> Marketing &amp; SEO Tools</li>
-                           <li><strong>99.9%</strong> Service Uptime</li>
-                           <li class="last"><strong>30 Day</strong> Money Back Guarantee</li>
-                        </ul>
-                     </div>
-                  </div>
-                  <!-- end plan -->
-                  
-                  <div class="col-md-3 col-sm-6 last">
-                     <div class="planbox">
-                        <div class="title">
-                           <h4 class="caps"><strong>Dedicated</strong></h4>
-                        </div>
-                        <div class="prices">
-                           <strong>$100<i>/M</i></strong>
-                           <b>Regularly <em>$200</em></b>
-                           <a href="#">
-                              Sign Up
-                           </a>
-                        </div>
-                        <ul>
-                           <li><strong>Unlimited</strong> Web Space</li>
-                           <li><strong>FREE</strong> Site Building Tools</li>
-                           <li><strong>FREE</strong> Domain Registar</li>
-                           <li><strong>24/7/365</strong> Support </li>
-                           <li><strong>FREE</strong> Marketing &amp; SEO Tools</li>
-                           <li><strong>99.9%</strong> Service Uptime</li>
-                           <li class="last"><strong>30 Day</strong> Money Back Guarantee</li>
-                        </ul>
-                     </div>
-                  </div>
-                  <!-- end plan -->
-                  
-               </div>
-            </div>
-            <!-- end hosting plans -->
-         </div>
-      </div>
-   </section>
+  
    <!-- End Price List -->
    
    <!-- Start Call to Action 1 -->
