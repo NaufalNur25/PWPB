@@ -413,7 +413,6 @@
                <div class="member-info wow fadeInUp">
                   <h4>Naufal Nur Hafizh</h4>
                   <h5 class="highlight">Ketua Kelompok / Back End Dev.</h5>
-                  <p>Saya suka koding </p>
                </div>
             </div>
             <div class="col-md-3 col-sm-3 team-member">
@@ -447,7 +446,6 @@
                <div class="member-info wow fadeInUp">
                   <h4>Luthfi Satrio W</h4>
                   <h5 class="highlight">Anggota  / Front End Dev.</h5>
-                  <p>saya suka bermain valorant</p>
                </div>
             </div>
             <div class="col-md-3 col-sm-3 team-member">
@@ -481,7 +479,6 @@
                <div class="member-info wow fadeInUp">
                   <h4>Adisty Nazwa Revalina</h4>
                   <h5 class="highlight">Anggota / Front End Dev.</h5>
-                  <p>Vivamus motestues phasellus enim sed orci eu pharetra.</p>
                </div>
             </div>
             <div class="col-md-3 col-sm-3 team-member">
@@ -515,11 +512,11 @@
                <div class="member-info wow fadeInUp">
                   <h4>M Ali Nur Rohman</h4>
                   <h5 class="highlight">Anggota / Back End Dev.</h5>
-                  <p>Vivamus motestues phasellus enim sed orci eu pharetra.</p>
                </div>
             </div>
          </div>
       </div>
+      
    </section>
    <!-- End Team Section -->
    
@@ -892,53 +889,64 @@
       <div class="container">
          <div class="row">
             <div class="col-md-12 text-center">
-               <h3 class="section-title white wow fadeInUp">What clients say.</h3>
-               <p class="subheading grey wow fadeInUp">What People Say's About Us</p>
+               <h3 class="section-title white wow fadeInUp">Motto Hidup</h3>
+               <p class="subheading grey wow fadeInUp"></p>
             </div>
             <div class="col-md-12 text-center wow fadeInUp">
                <div id="owl-testimonials" class="owl-carousel">
                   <div>
                      <div class="testimonial">
                         <i class="icon-left ion-quote ion-2x highlight"></i>
-                        <span> This guys are amazing! They were so quick to respond and let me tell you... they are all knowing!<br>
-                        I highly recommend their themes! They are all about making their clients happy. </span>
-                        <i class="icon-right ion-quote ion-2x highlight"></i>
+                        <span> Jatuhlah setelah jatuh kita akan merasakan sakit dan dari rasa sakit <br> kita belajar cara untuk tidak terjatuh dua kali </span>
+                        <i class="icon-right ion-quote ion-2x highlight"><br></i>
                      </div>
-                     <div class="testimonial-name">
-                        <img src="img/clients/client-1.png" alt="client">
-                        <h4 class="white">Jack Walles</h4>
+                     <div class="testimonial-name"><br>
+                        <img src="img/team/team-2.jpg" alt="client" width="80" height="80">
+                        <h4 class="white">Naufal Nur Hafizh</h4>
                         <a href="#">
-                           www.google.com
+                           Back End Developer
                         </a>
                      </div>
                   </div>
                   <div>
                      <div class="testimonial">
                         <i class="icon-left ion-quote ion-2x highlight"></i>
-                        <span> This one is undoubtedly the best template I ever bought! Easy to edit, nicely coded and I highly recommend it.<br>
-                        It's wonderful design and also very fast and excelent support. </span>
+                        <span> Hidup itu mudah, <br> tapi kadang ada saja yang membuatnya rumit</span>
                         <i class="icon-right ion-quote ion-2x highlight"></i>
                      </div>
                      <div class="testimonial-name">
-                        <img src="img/clients/client-2.png" alt="client">
-                        <h4 class="white">Jane Smith</h4>
+                     <img src="img/team/team-2.jpg" alt="client" width="80" height="80">
+                        <h4 class="white">Luthfi Satrio Wicaksono</h4>
                         <a href="#">
-                           www.facebook.com
+                           Front End Developer
                         </a>
                      </div>
                   </div>
                   <div>
                      <div class="testimonial">
                         <i class="icon-left ion-quote ion-2x highlight"></i>
-                        <span> Visual is well documented and well coded, but the best of all is the friendly and quick support behind it.<br>
-                        Visual Design did a great and dedicated job. Thank you for this awesome theme! </span>
+                        <span> Learn from the mistakes of others, <br> You can not live long enough to do all the fault itself </span>
                         <i class="icon-right ion-quote ion-2x highlight"></i>
                      </div>
                      <div class="testimonial-name">
-                        <img src="img/clients/client-3.png" alt="client">
-                        <h4 class="white">jonathan warton</h4>
+                     <img src="img/team/team-2.jpg" alt="client" width="80" height="80">
+                        <h4 class="white">Adisty Nazwa Revalina</h4>
                         <a href="#">
-                           www.msn.com
+                           Front End Developer
+                        </a>
+                     </div>
+                  </div>
+                  <div>
+                     <div class="testimonial">
+                        <i class="icon-left ion-quote ion-2x highlight"></i>
+                        <span>Kejarlah Mimpimu, Kuatkan tekadmu, <br> dan Berdoalah pada Tuhanmu</span>
+                        <i class="icon-right ion-quote ion-2x highlight"></i>
+                     </div>
+                     <div class="testimonial-name">
+                     <img src="img/team/team-2.jpg" alt="client" width="80" height="80">
+                        <h4 class="white">Muhammad Ali Nur Rohman</h4>
+                        <a href="#">
+                           Back End Developer
                         </a>
                      </div>
                   </div>
@@ -957,47 +965,34 @@
                <h3 class="section-title wow fadeInUp">Contact us</h3>
                <p class="subheading wow fadeInUp"> Let's Work Together. </p>
             </div>
-            <div class="col-md-7 wow fadeInUp">
-               <div id="message"></div>
-               <!-- Contact Form will be functional only on your server. Upload to your server when testing. -->
-               <form method="post" action="php/contact-form.php.htm" name="contactform" id="contactform">
-                  <fieldset>
-                     <input name="name" type="text" id="name" placeholder="Name"/>
-                     <input name="email" type="text" id="email" placeholder="Email"/>
-                     <input name="subject" type="text" id="subject" placeholder="Subject"/>
-                  </fieldset>
-                  <fieldset>
-                     <textarea name="comments" cols="40" rows="3" id="comments" placeholder="Message"></textarea>
-                  </fieldset>
-                  <input type="submit" class="submit" id="submit" value="Send Message" />
-               </form>
+            
+            <div class="row wow fadeInLeft text-center">
+            <div class="col-md-3"></div>
+            <div class="col-md-3">
+               <h4> SMK Negeri 4 Bandung : </h4>
+               <address>
+               Kliningan, Nomor 6 Buah Batu<br>
+               Kode Pos : 40264 Kota Bandung<br>
+               Provinsi Jawa Barat
+               Indonesia<br>
+               <abbr title="Phone">Phone :</abbr> (022) 730-3736
+               </address>
             </div>
-            <div class="col-md-5 wow fadeInLeft">
-               <h4> North America : </h4>
-               <address>
-               795 Folsom Ave, Suite 600<br>
-               San Francisco, CA 94107<br>
-               <abbr title="Phone">P:</abbr> (123) 456-7890
-               </address>
-               <h4> Europe : </h4>
-               <address>
-               795 Folsom Ave, Suite 600<br>
-               San Francisco, CA 94107<br>
-               <abbr title="Phone">P:</abbr> (123) 456-7890
-               </address>
+          <div class="col-md-3">
                <h4> Contact Us : </h4>
                <address>
                <abbr title="Phone">
                <strong> Phone </strong>
-               </abbr> : (123) 456-7890 <br>
+               </abbr> : (022) 730-3736 <br>
                <abbr title="Fax">
                <strong>Fax </strong>
-               </abbr> : (123) 456-7890 <br>
+               </abbr> : (022) 730-3736 <br>
                <abbr title="Email">
                <strong>Email </strong>
-               </abbr> : (123) 456-7890
+               </abbr> : info@smkn4bdg.sch.id
                </address>
             </div>
+            <div class="col-md-3"></div>
          </div>
       </div>
    </section>
