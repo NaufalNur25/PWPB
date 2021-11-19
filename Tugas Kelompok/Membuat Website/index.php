@@ -385,7 +385,7 @@
             <div class="col-md-3 col-sm-3 team-member">
                <div class="effect effects wow fadeInUp">
                   <div class="img">
-                     <img src="img/team/team-2.jpg" class="img-responsive" alt="" />
+                     <img src="img/team/team-1.jpg" class="img-responsive" alt="" />
                      <div class="overlay">
                         <ul class="expand">
                            <li class="social-icon">
@@ -451,7 +451,7 @@
             <div class="col-md-3 col-sm-3 team-member">
                <div class="effect effects wow fadeInUp">
                   <div class="img">
-                     <img src="img/team/team-2.jpg" class="img-responsive" alt="" />
+                     <img src="img/team/team-3.jpg" class="img-responsive" alt="" />
                      <div class="overlay">
                         <ul class="expand">
                            <li class="social-icon">
@@ -484,7 +484,7 @@
             <div class="col-md-3 col-sm-3 team-member">
                <div class="effect effects wow fadeInUp">
                   <div class="img">
-                     <img src="img/team/team-2.jpg " class="img-responsive" alt="" />
+                     <img src="img/team/team-4.jpg " class="img-responsive" alt="" />
                      <div class="overlay">
                         <ul class="expand">
                            <li class="social-icon">
@@ -591,23 +591,18 @@
          </div>
          <div id="grid-container-fullwidth" class="cbp-l-grid-fullScreen">
             <ul>
-               <li class="cbp-item effect effects identity logo">
+            <li class="cbp-item effect effects identity logo">
                   <div class="img">
                      <img src="img/portfolio/1.jpg" class="img-responsive" alt="" />
                      <div class="overlay">
                         <ul class="expand">
                            <li class="cbp-l-icon">
-                              <a href="img/portfolio/fullsize/1.jpg" class="cbp-lightbox" data-title="Dashboard<br>by Visual">
+                              <a href="img/portfolio/fullsize/1Full.jpg" class="cbp-lightbox" data-title="Dashboard<br>by Visual">
                                  <i class="icon-magnifier"></i>
                               </a>
                            </li>
-                           <li class="cbp-l-icon">
-                              <a href="projects/project1.html" class="cbp-singlePage">
-                                 <i class="icon-link"></i>
-                              </a>
-                           </li>
-                           <li class="cbp-l-caption-title">Future Trend</li>
-                           <li class="cbp-l-caption-desc">by Visual Design</li>
+                           <li class="cbp-l-caption-title">Caption</li>
+                           <li class="cbp-l-caption-desc">by FourGalery</li>
                         </ul>
                      </div>
                   </div>
@@ -618,106 +613,81 @@
                      <div class="overlay">
                         <ul class="expand">
                            <li class="cbp-l-icon">
-                              <a href="img/portfolio/fullsize/2.jpg" class="cbp-lightbox" data-title="Dashboard<br>by Visual">
+                              <a href="img/portfolio/fullsize/2Full.jpg" class="cbp-lightbox" data-title="Dashboard<br>by Visual">
                                  <i class="icon-magnifier"></i>
                               </a>
                            </li>
-                           <li class="cbp-l-icon">
-                              <a href="projects/project2.html" class="cbp-singlePage">
-                                 <i class="icon-link"></i>
-                              </a>
-                           </li>
-                           <li class="cbp-l-caption-title">Pro Bicycle</li>
-                           <li class="cbp-l-caption-desc">by Visual Design</li>
+                           <li class="cbp-l-caption-title">Caption</li>
+                           <li class="cbp-l-caption-desc">by FourGalery</li>
                         </ul>
                      </div>
                   </div>
                </li>
-               <li class="cbp-item effect effects web-design">
+               <li class="cbp-item effect effects identity logo">
                   <div class="img">
                      <img src="img/portfolio/3.jpg" class="img-responsive" alt="" />
                      <div class="overlay">
                         <ul class="expand">
                            <li class="cbp-l-icon">
-                              <a href="img/portfolio/fullsize/3.jpg" class="cbp-lightbox" data-title="Dashboard<br>by Visual">
+                              <a href="img/portfolio/fullsize/3Full.jpg" class="cbp-lightbox" data-title="Dashboard<br>by Visual">
                                  <i class="icon-magnifier"></i>
                               </a>
                            </li>
-                           <li class="cbp-l-icon">
-                              <a href="projects/project3.html" class="cbp-singlePage">
-                                 <i class="icon-link"></i>
-                              </a>
-                           </li>
-                           <li class="cbp-l-caption-title">Door Cover</li>
-                           <li class="cbp-l-caption-desc">by Visual Design</li>
+                           <li class="cbp-l-caption-title">Caption</li>
+                           <li class="cbp-l-caption-desc">by FourGalery</li>
                         </ul>
                      </div>
                   </div>
                </li>
-               <li class="cbp-item effect effects motion identity">
+               <li class="cbp-item effect effects identity logo">
                   <div class="img">
                      <img src="img/portfolio/4.jpg" class="img-responsive" alt="" />
                      <div class="overlay">
                         <ul class="expand">
                            <li class="cbp-l-icon">
-                              <a class="cbp-lightbox" href="https://www.youtube.com/watch?v=3wbvpOIIBQA" data-title="Dashboard<br>by Visual">
+                              <a href="img/portfolio/fullsize/4.jpg" class="cbp-lightbox" data-title="Dashboard<br>by Visual">
                                  <i class="icon-magnifier"></i>
                               </a>
                            </li>
-                           <li class="cbp-l-icon">
-                              <a href="projects/project4.html" class="cbp-singlePage">
-                                 <i class="icon-link"></i>
-                              </a>
-                           </li>
-                           <li class="cbp-l-caption-title">Pro Close-up</li>
-                           <li class="cbp-l-caption-desc">by Visual Design</li>
+                           <li class="cbp-l-caption-title">Caption</li>
+                           <li class="cbp-l-caption-desc">by FourGalery</li>
                         </ul>
                      </div>
                   </div>
                </li>
-               <li class="cbp-item effect effects identity">
+               <li class="cbp-item effect effects identity logo">
                   <div class="img">
                      <img src="img/portfolio/5.jpg" class="img-responsive" alt="" />
                      <div class="overlay">
                         <ul class="expand">
                            <li class="cbp-l-icon">
-                              <a href="img/portfolio/fullsize/5.jpg" class="cbp-lightbox" data-title="Dashboard<br>by Visual">
+                              <a href="img/portfolio/fullsize/5Full.jpg" class="cbp-lightbox" data-title="Dashboard<br>by Visual">
                                  <i class="icon-magnifier"></i>
                               </a>
                            </li>
-                           <li class="cbp-l-icon">
-                              <a href="projects/project5.html" class="cbp-singlePage">
-                                 <i class="icon-link"></i>
-                              </a>
-                           </li>
-                           <li class="cbp-l-caption-title">Bohemian Coding</li>
-                           <li class="cbp-l-caption-desc">by Visual Design</li>
+                           <li class="cbp-l-caption-title">Caption</li>
+                           <li class="cbp-l-caption-desc">by FourGalery</li>
                         </ul>
                      </div>
                   </div>
                </li>
-               <li class="cbp-item effect effects motion logo">
+               <li class="cbp-item effect effects identity logo">
                   <div class="img">
                      <img src="img/portfolio/6.jpg" class="img-responsive" alt="" />
                      <div class="overlay">
                         <ul class="expand">
                            <li class="cbp-l-icon">
-                              <a href="https://www.youtube.com/watch?v=9No-FiEInLA" class="cbp-lightbox" data-title="Dashboard<br>by Visual">
+                              <a href="img/portfolio/fullsize/6.jpg" class="cbp-lightbox" data-title="Dashboard<br>by Visual">
                                  <i class="icon-magnifier"></i>
                               </a>
                            </li>
-                           <li class="cbp-l-icon">
-                              <a href="projects/project6.html" class="cbp-singlePage">
-                                 <i class="icon-link"></i>
-                              </a>
-                           </li>
-                           <li class="cbp-l-caption-title">Poster Wall</li>
-                           <li class="cbp-l-caption-desc">by Visual Design</li>
+                           <li class="cbp-l-caption-title">Caption</li>
+                           <li class="cbp-l-caption-desc">by FourGalery</li>
                         </ul>
                      </div>
                   </div>
                </li>
-               <li class="cbp-item effect effects web-design">
+               <li class="cbp-item effect effects identity logo">
                   <div class="img">
                      <img src="img/portfolio/7.jpg" class="img-responsive" alt="" />
                      <div class="overlay">
@@ -727,18 +697,13 @@
                                  <i class="icon-magnifier"></i>
                               </a>
                            </li>
-                           <li class="cbp-l-icon">
-                              <a href="projects/project7.html" class="cbp-singlePage">
-                                 <i class="icon-link"></i>
-                              </a>
-                           </li>
-                           <li class="cbp-l-caption-title">Red Bridge</li>
-                           <li class="cbp-l-caption-desc">by Visual Design</li>
+                           <li class="cbp-l-caption-title">Caption</li>
+                           <li class="cbp-l-caption-desc">by FourGalery</li>
                         </ul>
                      </div>
                   </div>
                </li>
-               <li class="cbp-item effect effects web-design">
+               <li class="cbp-item effect effects identity logo">
                   <div class="img">
                      <img src="img/portfolio/8.jpg" class="img-responsive" alt="" />
                      <div class="overlay">
@@ -748,39 +713,29 @@
                                  <i class="icon-magnifier"></i>
                               </a>
                            </li>
-                           <li class="cbp-l-icon">
-                              <a href="projects/project8.html" class="cbp-singlePage">
-                                 <i class="icon-link"></i>
-                              </a>
-                           </li>
-                           <li class="cbp-l-caption-title">V8 M52 Engine</li>
-                           <li class="cbp-l-caption-desc">by Visual Design</li>
+                           <li class="cbp-l-caption-title">Caption</li>
+                           <li class="cbp-l-caption-desc">by FourGalery</li>
                         </ul>
                      </div>
                   </div>
                </li>
-               <li class="cbp-item effect effects identity motion">
+               <li class="cbp-item effect effects identity logo">
                   <div class="img">
                      <img src="img/portfolio/9.jpg" class="img-responsive" alt="" />
                      <div class="overlay">
                         <ul class="expand">
                            <li class="cbp-l-icon">
-                              <a href="http://vimeo.com/16465813" class="cbp-lightbox" data-title="Dashboard<br>by Visual">
+                              <a href="img/portfolio/fullsize/9.jpg" class="cbp-lightbox" data-title="Dashboard<br>by Visual">
                                  <i class="icon-magnifier"></i>
                               </a>
                            </li>
-                           <li class="cbp-l-icon">
-                              <a href="projects/project9.html" class="cbp-singlePage">
-                                 <i class="icon-link"></i>
-                              </a>
-                           </li>
-                           <li class="cbp-l-caption-title">Ergonomic Pad</li>
-                           <li class="cbp-l-caption-desc">by Visual Design</li>
+                           <li class="cbp-l-caption-title">Caption</li>
+                           <li class="cbp-l-caption-desc">by FourGalery</li>
                         </ul>
                      </div>
                   </div>
                </li>
-               <li class="cbp-item effect effects web-design graphic">
+               <li class="cbp-item effect effects identity logo">
                   <div class="img">
                      <img src="img/portfolio/10.jpg" class="img-responsive" alt="" />
                      <div class="overlay">
@@ -790,18 +745,13 @@
                                  <i class="icon-magnifier"></i>
                               </a>
                            </li>
-                           <li class="cbp-l-icon">
-                              <a href="projects/project10.html" class="cbp-singlePage">
-                                 <i class="icon-link"></i>
-                              </a>
-                           </li>
-                           <li class="cbp-l-caption-title">Cooling Tower</li>
-                           <li class="cbp-l-caption-desc">by Visual Design</li>
+                           <li class="cbp-l-caption-title">Caption</li>
+                           <li class="cbp-l-caption-desc">by FourGalery</li>
                         </ul>
                      </div>
                   </div>
                </li>
-               <li class="cbp-item effect effects graphic logo">
+               <li class="cbp-item effect effects identity logo">
                   <div class="img">
                      <img src="img/portfolio/11.jpg" class="img-responsive" alt="" />
                      <div class="overlay">
@@ -811,18 +761,13 @@
                                  <i class="icon-magnifier"></i>
                               </a>
                            </li>
-                           <li class="cbp-l-icon">
-                              <a href="projects/project11.html" class="cbp-singlePage">
-                                 <i class="icon-link"></i>
-                              </a>
-                           </li>
-                           <li class="cbp-l-caption-title">Still Motion</li>
-                           <li class="cbp-l-caption-desc">by Visual Design</li>
+                           <li class="cbp-l-caption-title">Caption</li>
+                           <li class="cbp-l-caption-desc">by FourGalery</li>
                         </ul>
                      </div>
                   </div>
                </li>
-               <li class="cbp-item effect effects graphic logo">
+               <li class="cbp-item effect effects identity logo">
                   <div class="img">
                      <img src="img/portfolio/12.jpg" class="img-responsive" alt="" />
                      <div class="overlay">
@@ -832,13 +777,71 @@
                                  <i class="icon-magnifier"></i>
                               </a>
                            </li>
+                           <li class="cbp-l-caption-title">Caption</li>
+                           <li class="cbp-l-caption-desc">by FourGalery</li>
+                        </ul>
+                     </div>
+                  </div>
+               </li>
+               <li class="cbp-item effect effects identity logo">
+                  <div class="img">
+                     <img src="img/portfolio/13.jpg" class="img-responsive" alt="" />
+                     <div class="overlay">
+                        <ul class="expand">
                            <li class="cbp-l-icon">
-                              <a href="projects/project12.html" class="cbp-singlePage">
-                                 <i class="icon-link"></i>
+                              <a href="img/portfolio/fullsize/13.jpg" class="cbp-lightbox" data-title="Dashboard<br>by Visual">
+                                 <i class="icon-magnifier"></i>
                               </a>
                            </li>
-                           <li class="cbp-l-caption-title">Print Design</li>
-                           <li class="cbp-l-caption-desc">by Visual Design</li>
+                           <li class="cbp-l-caption-title">Caption</li>
+                           <li class="cbp-l-caption-desc">by FourGalery</li>
+                        </ul>
+                     </div>
+                  </div>
+               </li>
+               <li class="cbp-item effect effects identity logo">
+                  <div class="img">
+                     <img src="img/portfolio/14.jpg" class="img-responsive" alt="" />
+                     <div class="overlay">
+                        <ul class="expand">
+                           <li class="cbp-l-icon">
+                              <a href="img/portfolio/fullsize/14.jpg" class="cbp-lightbox" data-title="Dashboard<br>by Visual">
+                                 <i class="icon-magnifier"></i>
+                              </a>
+                           </li>
+                           <li class="cbp-l-caption-title">Caption</li>
+                           <li class="cbp-l-caption-desc">by FourGalery</li>
+                        </ul>
+                     </div>
+                  </div>
+               </li>
+               <li class="cbp-item effect effects identity logo">
+                  <div class="img">
+                     <img src="img/portfolio/15.jpg" class="img-responsive" alt="" />
+                     <div class="overlay">
+                        <ul class="expand">
+                           <li class="cbp-l-icon">
+                              <a href="img/portfolio/fullsize/15.jpg" class="cbp-lightbox" data-title="Dashboard<br>by Visual">
+                                 <i class="icon-magnifier"></i>
+                              </a>
+                           </li>
+                           <li class="cbp-l-caption-title">Caption</li>
+                           <li class="cbp-l-caption-desc">by FourGalery</li>
+                        </ul>
+                     </div>
+                  </div>
+               </li><li class="cbp-item effect effects identity logo">
+                  <div class="img">
+                     <img src="img/portfolio/16.jpg" class="img-responsive" alt="" />
+                     <div class="overlay">
+                        <ul class="expand">
+                           <li class="cbp-l-icon">
+                              <a href="img/portfolio/fullsize/16.jpg" class="cbp-lightbox" data-title="Dashboard<br>by Visual">
+                                 <i class="icon-magnifier"></i>
+                              </a>
+                           </li>
+                           <li class="cbp-l-caption-title">Caption</li>
+                           <li class="cbp-l-caption-desc">by FourGalery</li>
                         </ul>
                      </div>
                   </div>
@@ -901,7 +904,7 @@
                         <i class="icon-right ion-quote ion-2x highlight"><br></i>
                      </div>
                      <div class="testimonial-name"><br>
-                        <img src="img/team/team-2.jpg" alt="client" width="80" height="80">
+                        <img src="img/team/team-1.jpg" alt="client" width="80" height="80">
                         <h4 class="white">Naufal Nur Hafizh</h4>
                         <a href="#">
                            Back End Developer
@@ -929,7 +932,7 @@
                         <i class="icon-right ion-quote ion-2x highlight"></i>
                      </div>
                      <div class="testimonial-name">
-                     <img src="img/team/team-2.jpg" alt="client" width="80" height="80">
+                     <img src="img/team/team-3.jpg" alt="client" width="80" height="80">
                         <h4 class="white">Adisty Nazwa Revalina</h4>
                         <a href="#">
                            Front End Developer
