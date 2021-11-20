@@ -848,12 +848,6 @@
                </li>
             </ul>
          </div>
-         <div class="cbp-l-loadMore-button">
-            <a href="projects/loadMore.html" class="cbp-l-loadMore-button-link wow fadeInUp">
-               SHOW ME MORE
-            </a>
-            <!-- Portfolio AJAX load more button will be functional only on your server. Upload to your server when testing. -->
-         </div>
       </div>
    </section>
    <!-- End Portfolio Section -->
@@ -875,11 +869,12 @@
       <div class="container">
          <div class="row">
             <div class="col-md-12 text-center">
-               <h3 class="wow fadeInUp">FEEL LIKE WORKING WITH US?</h3>
-               <p class="wow fadeInUp">Vivamus a placerat ante. Duis vulputate nibh sit amet augue vehicula, mattis ni<br>
-                  viverra purus tristique. Proin commodo eu ipsum. </p>
+               <h3 class="wow fadeInUp">Tertarik untuk belajar</h3>
+               <p class="wow fadeInUp">SMKN 4 Bandung adalah Sekolah Menengah Kejuruan yang memiliki kelompok bidang keahlian Ketenaga <strong>Listrikan, Audio Video, dan Teknik Komputer dan Informatika.</strong><br>
+               Keberadaannya didukung oleh dunia usaha dan dunia industri, baik dalam pembelajaran maupun penyerapan lulusannya.
+               Pembelajaran teori dan praktek tidak hanya dilakukan di dalam kelas tetapi dilakukan di dunia industri melalui praktek kerja industri di perusahaan-perusahaan yang relevan.<br></p>
                <a href="#contact" class="btn btn-primary btn-scroll">
-                  Get in Touch
+                  Here!
                </a>
             </div>
          </div>
@@ -946,7 +941,7 @@
                         <i class="icon-right ion-quote ion-2x highlight"></i>
                      </div>
                      <div class="testimonial-name">
-                     <img src="img/team/team-2.jpg" alt="client" width="80" height="80">
+                     <img src="img/team/team-4.jpg" alt="client" width="80" height="80">
                         <h4 class="white">Muhammad Ali Nur Rohman</h4>
                         <a href="#">
                            Back End Developer
