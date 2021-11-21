@@ -478,17 +478,12 @@
                      <div class="overlay">
                         <ul class="expand">
                            <li class="social-icon">
-                              <a href="#" onClick="return false;">
+                              <a href="https://www.instagram.com/m.alinr/" onClick="return false;">
                               <i class="icon ion-social-instagram-outline"></i>
                               </a>
                            </li>
                            <li class="social-icon">
-                              <a href="#" onClick="return false;">
-                                 <i class="icon-social-twitter"></i>
-                              </a>
-                           </li>
-                           <li class="social-icon">
-                              <a href="#" onClick="return false;">
+                              <a href = "mailto:m.alinurrohman10@gmail.com">
                                  <i class=" icon-envelope-open"></i>
                               </a>
                            </li>
@@ -1002,56 +997,6 @@
                   <a href="http://templatestock.co" target="_blank">Template Stock</a> 
                   </p>
                   <ul class="social-icons subheading">
-                     <li>
-                        <a href="#">
-                           <i class="icon ion-social-twitter"></i>
-                        </a>
-                     </li>
-                     <li>
-                        <a href="#">
-                           <i class="icon ion-social-facebook"></i>
-                        </a>
-                     </li>
-                     <li>
-                        <a href="#">
-                           <i class="icon ion-social-googleplus"></i>
-                        </a>
-                     </li>
-                     <li>
-                        <a href="#">
-                           <i class="icon ion-social-instagram-outline"></i>
-                        </a>
-                     </li>
-                     <li>
-                        <a href="#">
-                           <i class="icon ion-social-pinterest"></i>
-                        </a>
-                     </li>
-                     <li>
-                        <a href="#">
-                           <i class="icon ion-social-skype"></i>
-                        </a>
-                     </li>
-                     <li>
-                        <a href="#">
-                           <i class="icon ion-social-linkedin"></i>
-                        </a>
-                     </li>
-                     <li>
-                        <a href="#">
-                           <i class="icon ion-social-dropbox"></i>
-                        </a>
-                     </li>
-                     <li>
-                        <a href="#">
-                           <i class="icon ion-social-vimeo"></i>
-                        </a>
-                     </li>
-                     <li>
-                        <a href="#">
-                           <i class="icon ion-social-youtube"></i>
-                        </a>
-                     </li>
                   </ul>
                </div>
             </div>
