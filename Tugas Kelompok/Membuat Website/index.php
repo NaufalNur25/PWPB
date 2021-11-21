@@ -390,7 +390,7 @@
                         <ul class="expand">
                            <li class="social-icon">
                               <a href="#" onClick="return false;">
-                                 <i class="icon-social-facebook"></i>
+                              <i class="icon ion-social-instagram-outline"></i>
                               </a>
                            </li>
                            <li class="social-icon">
@@ -423,7 +423,7 @@
                         <ul class="expand">
                            <li class="social-icon">
                               <a href="#" onClick="return false;">
-                                 <i class="icon-social-facebook"></i>
+                              <i class="icon ion-social-instagram-outline"></i>
                               </a>
                            </li>
                            <li class="social-icon">
@@ -456,7 +456,7 @@
                         <ul class="expand">
                            <li class="social-icon">
                               <a href="#" onClick="return false;">
-                                 <i class="icon-social-facebook"></i>
+                              <i class="icon ion-social-instagram-outline"></i>
                               </a>
                            </li>
                            <li class="social-icon">
@@ -489,7 +489,7 @@
                         <ul class="expand">
                            <li class="social-icon">
                               <a href="#" onClick="return false;">
-                                 <i class="icon-social-facebook"></i>
+                              <i class="icon ion-social-instagram-outline"></i>
                               </a>
                            </li>
                            <li class="social-icon">
@@ -573,25 +573,22 @@
             <div data-filter="*" class="cbp-filter-item-active cbp-filter-item">All
                <div class="cbp-filter-counter"></div>
             </div>
-            <div data-filter=".identity" class="cbp-filter-item">Identity
+            <div data-filter=".identity" class="cbp-filter-item">Identitas
                <div class="cbp-filter-counter"></div>
             </div>
-            <div data-filter=".web-design" class="cbp-filter-item">Web Design
+            <div data-filter=".web-design" class="cbp-filter-item">Lorong
                <div class="cbp-filter-counter"></div>
             </div>
-            <div data-filter=".graphic" class="cbp-filter-item">Graphic
+            <div data-filter=".graphic" class="cbp-filter-item">Taman
                <div class="cbp-filter-counter"></div>
             </div>
-            <div data-filter=".logo" class="cbp-filter-item">Logo
-               <div class="cbp-filter-counter"></div>
-            </div>
-            <div data-filter=".motion" class="cbp-filter-item">Motion
+            <div data-filter=".motion" class="cbp-filter-item">Lainnya
                <div class="cbp-filter-counter"></div>
             </div>
          </div>
          <div id="grid-container-fullwidth" class="cbp-l-grid-fullScreen">
             <ul>
-            <li class="cbp-item effect effects identity logo">
+            <li class="cbp-item effect effects identity ">
                   <div class="img">
                      <img src="img/portfolio/1.jpg" class="img-responsive" alt="" />
                      <div class="overlay">
@@ -607,7 +604,7 @@
                      </div>
                   </div>
                </li>
-               <li class="cbp-item effect effects identity logo">
+               <li class="cbp-item effect effects motion">
                   <div class="img">
                      <img src="img/portfolio/2.jpg" class="img-responsive" alt="" />
                      <div class="overlay">
@@ -623,7 +620,7 @@
                      </div>
                   </div>
                </li>
-               <li class="cbp-item effect effects identity logo">
+               <li class="cbp-item effect effects identity">
                   <div class="img">
                      <img src="img/portfolio/3.jpg" class="img-responsive" alt="" />
                      <div class="overlay">
@@ -639,7 +636,7 @@
                      </div>
                   </div>
                </li>
-               <li class="cbp-item effect effects identity logo">
+               <li class="cbp-item effect effects identity graphic">
                   <div class="img">
                      <img src="img/portfolio/4.jpg" class="img-responsive" alt="" />
                      <div class="overlay">
@@ -655,7 +652,7 @@
                      </div>
                   </div>
                </li>
-               <li class="cbp-item effect effects identity logo">
+               <li class="cbp-item effect effects identity">
                   <div class="img">
                      <img src="img/portfolio/5.jpg" class="img-responsive" alt="" />
                      <div class="overlay">
@@ -671,7 +668,7 @@
                      </div>
                   </div>
                </li>
-               <li class="cbp-item effect effects identity logo">
+               <li class="cbp-item effect effects graphic">
                   <div class="img">
                      <img src="img/portfolio/6.jpg" class="img-responsive" alt="" />
                      <div class="overlay">
@@ -687,7 +684,7 @@
                      </div>
                   </div>
                </li>
-               <li class="cbp-item effect effects identity logo">
+               <li class="cbp-item effect effects graphic motion">
                   <div class="img">
                      <img src="img/portfolio/7.jpg" class="img-responsive" alt="" />
                      <div class="overlay">
@@ -703,7 +700,7 @@
                      </div>
                   </div>
                </li>
-               <li class="cbp-item effect effects identity logo">
+               <li class="cbp-item effect effects web-design">
                   <div class="img">
                      <img src="img/portfolio/8.jpg" class="img-responsive" alt="" />
                      <div class="overlay">
@@ -719,7 +716,7 @@
                      </div>
                   </div>
                </li>
-               <li class="cbp-item effect effects identity logo">
+               <li class="cbp-item effect effects motion">
                   <div class="img">
                      <img src="img/portfolio/9.jpg" class="img-responsive" alt="" />
                      <div class="overlay">
@@ -735,7 +732,7 @@
                      </div>
                   </div>
                </li>
-               <li class="cbp-item effect effects identity logo">
+               <li class="cbp-item effect effects identity graphic">
                   <div class="img">
                      <img src="img/portfolio/10.jpg" class="img-responsive" alt="" />
                      <div class="overlay">
@@ -751,7 +748,7 @@
                      </div>
                   </div>
                </li>
-               <li class="cbp-item effect effects identity logo">
+               <li class="cbp-item effect effects web-design">
                   <div class="img">
                      <img src="img/portfolio/11.jpg" class="img-responsive" alt="" />
                      <div class="overlay">
@@ -767,7 +764,7 @@
                      </div>
                   </div>
                </li>
-               <li class="cbp-item effect effects identity logo">
+               <li class="cbp-item effect effects graphic">
                   <div class="img">
                      <img src="img/portfolio/12.jpg" class="img-responsive" alt="" />
                      <div class="overlay">
@@ -783,7 +780,7 @@
                      </div>
                   </div>
                </li>
-               <li class="cbp-item effect effects identity logo">
+               <li class="cbp-item effect effects graphic motion">
                   <div class="img">
                      <img src="img/portfolio/13.jpg" class="img-responsive" alt="" />
                      <div class="overlay">
@@ -799,7 +796,7 @@
                      </div>
                   </div>
                </li>
-               <li class="cbp-item effect effects identity logo">
+               <li class="cbp-item effect effects web-design">
                   <div class="img">
                      <img src="img/portfolio/14.jpg" class="img-responsive" alt="" />
                      <div class="overlay">
@@ -815,7 +812,7 @@
                      </div>
                   </div>
                </li>
-               <li class="cbp-item effect effects identity logo">
+               <li class="cbp-item effect effects web-design motion">
                   <div class="img">
                      <img src="img/portfolio/15.jpg" class="img-responsive" alt="" />
                      <div class="overlay">
@@ -830,7 +827,7 @@
                         </ul>
                      </div>
                   </div>
-               </li><li class="cbp-item effect effects identity logo">
+               </li><li class="cbp-item effect effects motion">
                   <div class="img">
                      <img src="img/portfolio/16.jpg" class="img-responsive" alt="" />
                      <div class="overlay">
