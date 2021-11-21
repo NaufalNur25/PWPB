@@ -389,17 +389,12 @@
                      <div class="overlay">
                         <ul class="expand">
                            <li class="social-icon">
-                              <a href="#" onClick="return false;">
+                              <a href="https://www.instagram.com/nafizh.205/" onClick="return false;">
                               <i class="icon ion-social-instagram-outline"></i>
                               </a>
                            </li>
                            <li class="social-icon">
-                              <a href="#" onClick="return false;">
-                                 <i class="icon-social-twitter"></i>
-                              </a>
-                           </li>
-                           <li class="social-icon">
-                              <a href="#" onClick="return false;">
+                           <a href = "mailto:naufal.nurhafizh.10.01@gmail.com">
                                  <i class=" icon-envelope-open"></i>
                               </a>
                            </li>
@@ -422,17 +417,17 @@
                      <div class="overlay">
                         <ul class="expand">
                            <li class="social-icon">
-                              <a href="#" onClick="return false;">
+                              <a href="https://Instagram.com/luthfisw_/" onClick="return false;">
                               <i class="icon ion-social-instagram-outline"></i>
                               </a>
                            </li>
                            <li class="social-icon">
-                              <a href="#" onClick="return false;">
+                              <a href="https://twitter.com/Luthfisw_?t=YgwIn9UMzfCPYZ0xASj7Ew&s=09" onClick="return false;">
                                  <i class="icon-social-twitter"></i>
                               </a>
                            </li>
                            <li class="social-icon">
-                              <a href="#" onClick="return false;">
+                           <a href = "mailto:luthfisatrio53@gmail.com">
                                  <i class=" icon-envelope-open"></i>
                               </a>
                            </li>
@@ -455,17 +450,12 @@
                      <div class="overlay">
                         <ul class="expand">
                            <li class="social-icon">
-                              <a href="#" onClick="return false;">
+                              <a href="https://www.instagram.com/adistyval/" onClick="return false;">
                               <i class="icon ion-social-instagram-outline"></i>
                               </a>
                            </li>
                            <li class="social-icon">
-                              <a href="#" onClick="return false;">
-                                 <i class="icon-social-twitter"></i>
-                              </a>
-                           </li>
-                           <li class="social-icon">
-                              <a href="#" onClick="return false;">
+                              <a href = "mailto:adistynazwr@gmail.com">
                                  <i class=" icon-envelope-open"></i>
                               </a>
                            </li>
